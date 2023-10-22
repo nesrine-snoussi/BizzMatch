@@ -19,4 +19,13 @@ You may find below the list of the frameworks/libraries that we used to build th
   
 
   </div>
+<!-- GETTING STARTED -->
+## ✨ Getting Started
+To get a local copy up and running follow these simple example steps.
+
+### 🚧 Prerequisites
+
+You may find below the list of things you need to use this project :
+* You need to have Maven, JDK8+.
+* You will need to install docker in order to use the `docker-compose`.
 
