@@ -1,7 +1,11 @@
 # BizzMatch
 <div id="top" align="center">
  
-  
+  <p align="center">
+    <a href="#-about-the-project">About The Project</a> •
+    <a href="#-project-technical-architecture">Project Architecture</a> •
+    <a href="#-built-with">Built With</a> •
+  </p>
 
 <h3 align="center">BizMatch Microservices</h3>
  </div>
