@@ -6,6 +6,26 @@
 <h3 align="center">BizMatch Microservices</h3>
  </div>
  </div>
+
+  ### 📜 Project Main features
+Our backend is powered by 7 microservices, all of which happen to be written in java using Spring Boot and nestjs.
+<br> 
+
+ * **Customer Review Service** :allows customers to leave reviews and ratings for the hotel .
+ * **Auxiliary Services Service**: 
+ * **Parking Service**: 
+ * **inventory Service**: 
+ * **Reservation Service**: 
+ * **Staff Management Service**:
+ * **Authentification  Service**:  authentication service handles user authentication and authorization, securing access to your microservices and client-side application.
+
+
+### 📐 Project Technical Architecture 
+Our sample microservices-based system consists of the following modules:
+- **gateway-service** : a module for running Spring Boot application that acts as a proxy/gateway in our architecture.
+- **eureka_server** : a module thats Spring Cloud Eureka as an embedded discovery server.
+- **PlanStrategic: Companies use the platform to plan their growth.
+
 ### 🚀 Built With
 
 You may find below the list of the frameworks/libraries that we used to build this demo project :
