@@ -1,4 +1,18 @@
 # BizzMatch
+<div id="top" align="center">
+ 
+  
+
+<h3 align="center">BizMatch Microservices</h3>
+  
+<p align="center">
+    <a href="#-about-the-project">About The Project</a> •
+    <a href="#-project-technical-architecture">Project Architecture</a> •
+    <a href="#-built-with">Built With</a> •
+    <a href="#-usage">Usage</a> •
+  </p>
+ </div>
+ </div>
 ### 🚀 Built With
 
 You may find below the list of the frameworks/libraries that we used to build this demo project :
