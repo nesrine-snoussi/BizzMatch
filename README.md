@@ -10,10 +10,11 @@
  </div>
 
   ### 📜 Project Main features
-Our backend is powered by 10 microservices, all of which happen to be written in java using Spring Boot and Spring Security.
+Our backend is powered by 13 microservices, all of which happen to be written in java using Spring Boot and Spring Security.
 <br> 
 
- * **PlanStrategic: Companies use the platform to plan their growth.
+ * **PlanStrategic
+ * **PartnershipMicroservice
  * **EventMicroservice
  * **RelationsMicroservice
  * **AuthentificationMicroservice
@@ -21,6 +22,10 @@ Our backend is powered by 10 microservices, all of which happen to be written in
  * **ApiGeteway
  * **BlogMicroservice
  * **CommentaireMicroservice
+ * **ChatMicroservice
+ * **EntrepriseServicesMicroservice
+ * **CommentaireMicroservice
+ * **MeetingMicroservice
 
 
 ### 📐 Project Technical Architecture 
@@ -28,6 +33,18 @@ Our sample microservices-based system consists of the following modules:
 - **gateway-service** : a module for running Spring Boot application that acts as a proxy/gateway in our architecture.
 - **eureka_server** : a module thats Spring Cloud Eureka as an embedded discovery server.
 - **PlanStrategic: Companies use the platform to plan their growth. [[PlanStrategique ](https://github.com/nesrine-snoussi/BizzMatch/tree/master/PlanStrategicMicroservice)]
+- **PartnershipMicroservice
+- **EventMicroservice [[EventMicroservice ](https://github.com/nesrine-snoussi/BizzMatch/tree/master/event)]
+- **RelationsMicroservice [[RelationsMicroservice ](https://github.com/nesrine-snoussi/BizzMatch/tree/master/relation)]
+- **AuthentificationMicroservice [[AuthentificationMicroservice ](https://github.com/nesrine-snoussi/BizzMatch/tree/master/authenBizmatch)]
+- **UserMicroservice [[link ](https://github.com/nesrine-snoussi/BizzMatch/tree/master/relation)]
+- **ApiGeteway [[link ](https://github.com/nesrine-snoussi/BizzMatch/tree/master/relation)]
+- **BlogMicroservice [[link ](https://github.com/nesrine-snoussi/BizzMatch/tree/master/relation)]
+- **CommentaireMicroservice [[ link ](https://github.com/nesrine-snoussi/BizzMatch/tree/master/relation)]
+- **ChatMicroservice [[ link ](https://github.com/nesrine-snoussi/BizzMatch/tree/master/relation)]
+- **EntrepriseServicesMicroservice [[link ](https://github.com/nesrine-snoussi/BizzMatch/tree/master/relation)]
+- **CommentaireMicroservice [[ link ](https://github.com/nesrine-snoussi/BizzMatch/tree/master/relation)]
+- **MeetingMicroservice [[link ](https://github.com/nesrine-snoussi/BizzMatch/tree/master/relation)]
 
 ### 🚀 Built With
 
