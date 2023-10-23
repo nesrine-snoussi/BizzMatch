@@ -14,6 +14,13 @@ Our backend is powered by 10 microservices, all of which happen to be written in
 <br> 
 
  * **PlanStrategic: Companies use the platform to plan their growth.
+ * **EventMicroservice
+ * **RelationsMicroservice
+ * **AuthentificationMicroservice
+ * **UserMicroservice
+ * **ApiGeteway
+ * **BlogMicroservice
+ * **CommentaireMicroservice
 
 
 ### 📐 Project Technical Architecture 
