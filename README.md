@@ -74,5 +74,4 @@ To get a local copy up and running follow these simple example steps.
 
 You may find below the list of things you need to use this project :
 * You need to have Maven, JDK8+.
-* You will need to install docker in order to use the `docker-compose`.
 
