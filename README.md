@@ -27,7 +27,7 @@ Our backend is powered by 10 microservices, all of which happen to be written in
 Our sample microservices-based system consists of the following modules:
 - **gateway-service** : a module for running Spring Boot application that acts as a proxy/gateway in our architecture.
 - **eureka_server** : a module thats Spring Cloud Eureka as an embedded discovery server.
-- **PlanStrategic: Companies use the platform to plan their growth. [[Link to the branch ](https://github.com/nesrine-snoussi/BizzMatch/tree/master/PlanStrategicMicroservice)]
+- **PlanStrategic: Companies use the platform to plan their growth. [[PlanStrategique ](https://github.com/nesrine-snoussi/BizzMatch/tree/master/PlanStrategicMicroservice)]
 
 ### 🚀 Built With
 
